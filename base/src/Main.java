@@ -6,6 +6,9 @@ public class Main {
     private String name;
     private int age;
 
+    public Main() {
+    }
+
     public Main(String name, int age) {
         this.name = name;
         this.age = age;
