@@ -391,7 +391,14 @@
       <option name="project" value="LOCAL" />
       <updated>1519758550814</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="git ignore updated">
+      <created>1519758892545</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1519758892545</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -435,7 +442,8 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="second commit" />
     <MESSAGE value="new feature" />
-    <option name="LAST_COMMIT_MESSAGE" value="new feature" />
+    <MESSAGE value="git ignore updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="git ignore updated" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
